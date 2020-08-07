@@ -266,6 +266,7 @@ class _HomePageState extends State<HomePage> {
             child: RaisedButton.icon(
                 color: Colors.green,
                 onPressed: () {
+                  print('12345');
                   try {
                     dispose();
                   } catch (e) {
