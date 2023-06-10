@@ -1,9 +1,7 @@
-# covid19
+# COVID-19 Tracker App
 
 Made with Flutter SDK
 
-## Getting Started
-
-Tracks the number COVID-19 cases in India.
+App that tracks the number COVID-19 cases in India, country and state wise.
 
 
